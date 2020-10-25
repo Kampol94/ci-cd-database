@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Table1]
+﻿CREATE TABLE [dbo].[Table1v2]
 (
 	[Id] INT NOT NULL PRIMARY KEY, 
     [p1] NCHAR(10) NULL, 
